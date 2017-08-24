@@ -64,7 +64,7 @@ public class JNIBridge
   }
 }
 
-/* Location:           C:\apk\dex2jar-0.0.9.15\dex2jar-0.0.9.15\classes_dex2jarNor.jar
+/* Location:           C:\apk\dex2jar-0.0.9.15\dex2jar-0.0.9.15\classes_dex2jar.jar
  * Qualified Name:     bitter.jnibridge.JNIBridge
  * JD-Core Version:    0.6.0
  */
